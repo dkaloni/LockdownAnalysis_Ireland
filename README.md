@@ -39,11 +39,9 @@ The data source in this work is NASA's Goddard Earth Sciences Data and Informati
 
 ### Scripts
 
- + `CombiningNetCDFfiles.ipynb`: Run this script to [combine netCDF files](http://nco.sourceforge.net/). This comes under preprocessing of data to obtain a publication quality dataset.  
+ + `CombiningNetCDFfiles_Dublin.ipynb`: Run this script to [combine netCDF files](http://nco.sourceforge.net/). This comes under preprocessing of data to obtain a publication quality dataset.  
 
-+ `DailyAverageConcPlots.ipynb`: Run this script to obtain the distribution plots used in the paper. Contains time series line plot of daily average nitrogen dioxide concentration, bar plots of satellite data obtained from Sentinel-5P for average concentration of 15 days for year 2019 and 2020 and line plots of ground based monitoring station (ITO, Delhi station). It saves the plots as `.png` and `.pdf` format for future use in the same folder as the script.
-
-+ `python3 ImageDifferenceofTwoPlots.py`: Run this script to obtain the difference of two NO<sub>2</sub> Concentration plots made using Cartopy or [Panoply](https://www.giss.nasa.gov/tools/panoply/) to infer and analyze the decrease in daily average concentration.
++ `NO2_Ireland Plots.ipynb`: Run this script to obtain the distribution plots used in the paper. Contains time series line plot of daily average nitrogen dioxide concentration, bar plots of satellite data obtained from Sentinel-5P for average concentration of 15 days for year 2019 and 2020 and bar plot of fifteen days average concentration plots. It saves the plots as `.png` and `.pdf` format for future use in the same folder as the script.
 
 + `MapsfromNetCDFfiles.ipynb`: Run this script to retrieve, read, edit, store and plot netCDF files obtained from Sentinel-5P.
 
