@@ -2,7 +2,7 @@
 
 With the spirit of reproducible research, this repository contains codes required to produce the results in the manuscript:
     
-> D. Kaloni, Y. H. Lee, S. Dev, Impact of COVID19-induced Lockdown on Air Quality in Ireland.
+> D. Kaloni, Y. H. Lee, S. Dev, Impact of COVID19-induced Lockdown on Air Quality in Ireland, *IEEE International Geoscience and Remote Sensing Symposium (IGARSS)*, 2021.
     
 Please cite the above paper if you intent to use whole/part of the code. This code is only for academic and research purposes.
 
